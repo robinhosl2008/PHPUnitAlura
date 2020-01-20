@@ -1,3 +1,7 @@
+Leilao (Tests\Model\Leilao)
+ [x] Leilao deve receber lances with data set "com dois lances"
+ [x] Leilao deve receber lances with data set "com um lance"
+
 Avaliador (PHPUnitAlura\Tests\Service\Avaliador)
  [x] Avaliador deve encontrar o maior lance with data set "ordem-crescente"
  [x] Avaliador deve encontrar o maior lance with data set "ordem-decrescente"
