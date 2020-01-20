@@ -1,0 +1,11 @@
+Avaliador (PHPUnitAlura\Tests\Service\Avaliador)
+ [x] Avaliador deve encontrar o maior lance with data set "ordem-crescente"
+ [x] Avaliador deve encontrar o maior lance with data set "ordem-decrescente"
+ [x] Avaliador deve encontrar o maior lance with data set "ordem-aleatória"
+ [x] Avaliador deve encontrar o menor lance with data set "ordem-crescente"
+ [x] Avaliador deve encontrar o menor lance with data set "ordem-decrescente"
+ [x] Avaliador deve encontrar o menor lance with data set "ordem-aleatória"
+ [x] Busca os tres maiores valores with data set "ordem-crescente"
+ [x] Busca os tres maiores valores with data set "ordem-decrescente"
+ [x] Busca os tres maiores valores with data set "ordem-aleatória"
+
